@@ -1,0 +1,282 @@
+# depslib dependency file v1.0
+1522343591 source:c:\users\user\documents\bevprog ii\widget2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"Widget.h"
+	"SimpleText.h"
+
+1430022466 c:\users\user\documents\bevprog ii\widget2\graphicsproject\include\graphics.hpp
+	<string>
+
+1522342866 source:c:\users\user\documents\bevprog ii\widget2\graphicsproject\widget.cpp
+	"Widget.h"
+
+1522343633 c:\users\user\documents\bevprog ii\widget2\graphicsproject\widget.h
+	"graphics.hpp"
+
+1522343576 source:c:\users\user\documents\bevprog ii\widget2\graphicsproject\simpletext.cpp
+	"SimpleText.h"
+	"graphics.hpp"
+
+1522343660 c:\users\user\documents\bevprog ii\widget2\graphicsproject\simpletext.h
+	"Widget.h"
+
+1522401583 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"Widget.h"
+	"SimpleText.h"
+	"InputField.h"
+
+1430022466 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\include\graphics.hpp
+	<string>
+
+1522343634 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\widget.h
+	"graphics.hpp"
+
+1522343662 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\simpletext.h
+	"Widget.h"
+
+1522343578 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\simpletext.cpp
+	"SimpleText.h"
+	"graphics.hpp"
+
+1522348267 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\widget.cpp
+	"Widget.h"
+	<iostream>
+
+1522406744 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\movablewidget.cpp
+	"MovableWidget.h"
+	"graphics.hpp"
+	<iostream>
+
+1522400693 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\movablewidget.h
+	"Widget.h"
+
+1522401512 source:c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\inputfield.cpp
+	"InputField.h"
+
+1522401496 c:\users\balazs\desktop\cpp\malac\widget2\graphicsproject\inputfield.h
+	"MovableWidget.h"
+
+1523822370 source:c:\users\user\documents\bevprog ii\widget3\inputfield.cpp
+	"InputField.h"
+	<iostream>
+
+1523815552 c:\users\user\documents\bevprog ii\widget3\inputfield.h
+	<vector>
+	"MovableWidget.h"
+
+1522764903 c:\users\user\documents\bevprog ii\widget3\movablewidget.h
+	"Widget.h"
+
+1523800751 c:\users\user\documents\bevprog ii\widget3\widget.h
+	"graphics.hpp"
+	<iostream>
+	<vector>
+
+1522411106 c:\users\user\documents\bevprog ii\widget3\include\graphics.hpp
+	<string>
+
+1523884842 source:c:\users\user\documents\bevprog ii\widget3\main.cpp
+	"graphics.hpp"
+	"Widget.h"
+	"SimpleText.h"
+	"InputField.h"
+	"CheckBox.h"
+	"Spinner.h"
+	"ListBox.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1523387929 c:\users\user\documents\bevprog ii\widget3\simpletext.h
+	"Widget.h"
+	<iostream>
+	"graphics.hpp"
+
+1523279608 source:c:\users\user\documents\bevprog ii\widget3\movablewidget.cpp
+	"MovableWidget.h"
+	"graphics.hpp"
+	<iostream>
+
+1522520773 source:c:\users\user\documents\bevprog ii\widget3\simpletext.cpp
+	"SimpleText.h"
+	"graphics.hpp"
+
+1523394741 source:c:\users\user\documents\bevprog ii\widget3\widget.cpp
+	"Widget.h"
+	<iostream>
+	"graphics.hpp"
+
+1523387929 source:c:\users\user\documents\bevprog ii\widget3\checkbox.cpp
+	"CheckBox.h"
+	"graphics.hpp"
+	<iostream>
+
+1522520250 c:\users\user\documents\bevprog ii\widget3\checkbox.h
+	"graphics.hpp"
+	"MovableWidget.h"
+
+1523797039 c:\users\user\documents\bevprog ii\widget3\spinner.h
+	<iostream>
+	<sstream>
+	"Widget.h"
+
+1523801038 source:c:\users\user\documents\bevprog ii\widget3\spinner.cpp
+	"Spinner.h"
+	"graphics.hpp"
+	<iostream>
+	<sstream>
+
+1523803992 source:c:\users\user\documents\bevprog ii\widget3\listbox.cpp
+	"ListBox.h"
+	"graphics.hpp"
+	<iostream>
+	<vector>
+
+1523803683 c:\users\user\documents\bevprog ii\widget3\listbox.h
+	<iostream>
+	<vector>
+	"Widget.h"
+
+1523387929 source:c:\users\user\documents\bevprog ii\beadando iii\checkbox.cpp
+	"CheckBox.h"
+	"graphics.hpp"
+	<iostream>
+
+1525376170 c:\users\user\documents\bevprog ii\beadando iii\checkbox.h
+	"graphics.hpp"
+	"MovableWidget.h"
+
+1522411106 c:\users\user\documents\bevprog ii\beadando iii\include\graphics.hpp
+	<string>
+
+1525376170 c:\users\user\documents\bevprog ii\beadando iii\movablewidget.h
+	"Widget.h"
+
+1525450050 c:\users\user\documents\bevprog ii\beadando iii\widget.h
+	"graphics.hpp"
+	<iostream>
+	<vector>
+	<sstream>
+
+1523822370 source:c:\users\user\documents\bevprog ii\beadando iii\inputfield.cpp
+	"InputField.h"
+	<iostream>
+
+1525376170 c:\users\user\documents\bevprog ii\beadando iii\inputfield.h
+	<vector>
+	"MovableWidget.h"
+
+1523803992 source:c:\users\user\documents\bevprog ii\beadando iii\listbox.cpp
+	"ListBox.h"
+	"graphics.hpp"
+	<iostream>
+	<vector>
+
+1525376170 c:\users\user\documents\bevprog ii\beadando iii\listbox.h
+	<iostream>
+	<vector>
+	"Widget.h"
+
+1523279608 source:c:\users\user\documents\bevprog ii\beadando iii\movablewidget.cpp
+	"MovableWidget.h"
+	"graphics.hpp"
+	<iostream>
+
+1522520773 source:c:\users\user\documents\bevprog ii\beadando iii\simpletext.cpp
+	"SimpleText.h"
+	"graphics.hpp"
+
+1525376170 c:\users\user\documents\bevprog ii\beadando iii\simpletext.h
+	"Widget.h"
+	<iostream>
+	"graphics.hpp"
+
+1525287995 source:c:\users\user\documents\bevprog ii\beadando iii\spinner.cpp
+	"Spinner.h"
+	"graphics.hpp"
+	<iostream>
+	<sstream>
+
+1525376170 c:\users\user\documents\bevprog ii\beadando iii\spinner.h
+	<iostream>
+	<sstream>
+	"Widget.h"
+
+1525450050 source:c:\users\user\documents\bevprog ii\beadando iii\widget.cpp
+	"Widget.h"
+	<iostream>
+	"graphics.hpp"
+
+1525556912 source:c:\users\user\documents\bevprog ii\beadando iii\main.cpp
+	"graphics.hpp"
+	"Widget.h"
+	"SimpleText.h"
+	"InputField.h"
+	"CheckBox.h"
+	"Spinner.h"
+	"ListBox.h"
+	"Tank.h"
+	"Projectile.h"
+	"GameMaster.h"
+	<vector>
+	<iostream>
+	<fstream>
+
+1525551861 source:c:\users\user\documents\bevprog ii\beadando iii\tank.cpp
+	"Tank.h"
+	<cmath>
+	"graphics.hpp"
+	<iostream>
+
+1525551549 c:\users\user\documents\bevprog ii\beadando iii\tank.h
+	"graphics.hpp"
+	"Widget.h"
+	<iostream>
+
+1525559298 source:c:\users\user\documents\bevprog ii\beadando iii\projectile.cpp
+	"Projectile.h"
+	"graphics.hpp"
+	"Widget.h"
+	<iostream>
+
+1525553753 c:\users\user\documents\bevprog ii\beadando iii\projectile.h
+	"graphics.hpp"
+	"Widget.h"
+	<iostream>
+	<vector>
+	<cmath>
+
+1526158502 source:c:\users\user\documents\bevprog ii\beadando iii\gamemaster.cpp
+	"GameMaster.h"
+	<sstream>
+
+1526158630 c:\users\user\documents\bevprog ii\beadando iii\gamemaster.h
+	"Widget.h"
+	"Tank.h"
+	"Projectile.h"
+	"Spinner.h"
+	"graphics.hpp"
+	"Button.h"
+	"FunctorButton.h"
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1526158324 c:\users\user\documents\bevprog ii\beadando iii\button.h
+	<graphics.hpp>
+	"Widget.h"
+
+1526158318 c:\users\user\documents\bevprog ii\beadando iii\functorbutton.h
+	<functional>
+	"Button.h"
+	"graphics.hpp"
+
+1526158364 source:c:\users\user\documents\bevprog ii\beadando iii\button.cpp
+	"Button.h"
+	<graphics.hpp>
+
+1526157239 source:c:\users\user\documents\bevprog ii\beadando iii\functorbutton.cpp
+	"FunctorButton.h"
+	<graphics.hpp>
+
